@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "reach-for-the-stars.slnx"
+    "dotnet.defaultSolution": "expelled.slnx"
 }
