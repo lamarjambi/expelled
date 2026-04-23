@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Lamar/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Lamar/Scenes/MenuScene.unity
     guid: 91d6b05667d6a174da7ea8051cca3008
@@ -14,9 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Lamar/Scenes/GameScene.unity
     guid: 0815ebd95e13f4a45ab710f7e4c38258
-  - enabled: 0
-    path: Assets/Lamar/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Lamar/Scenes/GameScene2.unity
+    guid: 180eb17bc68c99542bdb42a66f772358
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
