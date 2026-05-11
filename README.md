@@ -1,2 +1,2 @@
-# reach-for-the-stars
-3D isometric game where you escape the chaos of the city :]
+# expelled
+3D isometric combat game, where you're an anomaly in this realm!!!
