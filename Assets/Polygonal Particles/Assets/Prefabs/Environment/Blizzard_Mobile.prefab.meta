@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa3c9d840eec7d1d47b8e94fcf36351f92e18c0b2f5e3b29abe760938dc11c73
-size 427
+fileFormatVersion: 2
+guid: 9eb5d4f78bb4e8f44859e23308f70361
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/Blizzard_Mobile.prefab
+  uploadId: 245436

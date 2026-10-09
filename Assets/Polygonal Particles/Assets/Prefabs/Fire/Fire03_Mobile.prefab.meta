@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18624ba08a652a08b13361e071a4aaae4584b6fa28e0616b6b82c2c173045297
-size 418
+fileFormatVersion: 2
+guid: e04dea75bb0c7244391be733f5355ac4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Fire/Fire03_Mobile.prefab
+  uploadId: 245436

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d334d096643f4c3dd05f74b87aa50c9988e65c051d19a9773a3c2f4b6831367f
-size 403
+fileFormatVersion: 2
+guid: c7e7436ea27db194fafa1443d43e8362
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Wall_Window_Rectangle.prefab
+  uploadId: 434418

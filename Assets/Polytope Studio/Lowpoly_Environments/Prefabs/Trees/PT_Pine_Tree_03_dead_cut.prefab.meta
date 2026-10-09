@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9d1e6eaeae8345f41a77e1f0473d70306c4fb86464d27cb123647edfb6378b3
-size 430
+fileFormatVersion: 2
+guid: 53e1939cdeda3f04caaa240bfd830e5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Pine_Tree_03_dead_cut.prefab
+  uploadId: 721311

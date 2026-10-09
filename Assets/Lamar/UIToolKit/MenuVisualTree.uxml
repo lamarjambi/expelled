@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c56e1079f469c98d43b9fedbb5b3bb381e4fa214944cbe81ad044e381311cee4
-size 2090
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Lamar/UIToolKit/MenuStyle.uss?fileID=7433441132597879392&amp;guid=d605de4315a5ed7459953eca81d8c105&amp;type=3#MenuStyle"/>
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Lamar/Sprites/placeholder-background.png?fileID=2800000&amp;guid=2490dfceedaec5d44a53acdb9188dccf&amp;type=3#placeholder-background&quot;); -unity-background-image-tint-color: rgb(122, 122, 122);">
+        <ui:Label text="Expelled" name="Title" class="label" style="padding-bottom: 3%; padding-top: 20%;"/>
+        <ui:GroupBox name="GroupBox" style="text-overflow: ellipsis; white-space: nowrap; -unity-text-align: middle-center; flex-direction: row; align-items: flex-end; justify-content: center; align-self: center; align-content: center;">
+            <ui:Button text="Play" name="Play" class="button" style="margin-right: 90px; background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0);"/>
+            <ui:Button text="Settings" name="Settings" class="button" style="margin-right: 90px; background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); margin-left: 90px; width: 400px;"/>
+            <ui:Button text="Quit" name="Quit" class="button" style="margin-left: 90px; border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); background-color: rgba(188, 188, 188, 0);"/>
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>

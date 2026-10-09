@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e6d011e3869d6db7b585cc6f113caf7c8187af1e2ffac3ab21b260cc55c7832
-size 391
+fileFormatVersion: 2
+guid: 616c6929cc2c6214c88fde161ebb58d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Wall_Edge.prefab
+  uploadId: 434418

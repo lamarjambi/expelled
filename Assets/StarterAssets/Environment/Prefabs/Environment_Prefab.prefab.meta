@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90f7f36c411a7bb92fdefc7d32b736dca41dbfcab92b7ec229c7b496e0c926b4
-size 426
+fileFormatVersion: 2
+guid: 09aade0ecefd01e4b8f7661acf64f5c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab
+  uploadId: 879174

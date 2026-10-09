@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aae03a60c44be8bcc2687bff3373a4cb7b4f81f67f0cf194e336f91de4739e47
-size 463
+fileFormatVersion: 2
+guid: 2af2e1ecb912a5a448f4ae389810eabc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181883
+  packageName: Lowpoly Medieval Skeleton - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.2
+  assetPath: Assets/Polytope Studio/Lowpoly_Characters/Prefabs/Modular_Armors/Separate_Parts/PT_Male_Armor_Skeleton_01_gauntlets.prefab
+  uploadId: 721450

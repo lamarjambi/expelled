@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:766ca369ae599b08f75774ecc3391712bd535632eceb5336f54824c27c464dd5
-size 505
+fileFormatVersion: 2
+guid: 2dff512f419726743a4412282061c6cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Male/Polearm/HumanM@Run_ForwardRight - Polearm.controller
+  uploadId: 825254

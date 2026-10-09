@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63de399b505a6ff2e7337129d67c42251d30f1b4196395d51e4c578671271a37
-size 418
+fileFormatVersion: 2
+guid: bbabf78c752a7114aa85d108c86f3d9b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Plants/PT_Grass_01.prefab
+  uploadId: 721311

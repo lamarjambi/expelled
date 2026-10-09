@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:81a306522c8ecf2ac0f2a29d4d4f7ee19462bfb68f35b214b1d79f275eb3931c
-size 468
+fileFormatVersion: 2
+guid: 8b55fd248dd5aa140a1142754a64dc18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/Materials/HumanMeleeAnimations_Floor.mat
+  uploadId: 825254

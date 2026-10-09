@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:760c850809d3e321b8fa8573ee7444ca00de1c242878671755020784e6bd38b2
-size 468
+fileFormatVersion: 2
+guid: 83134bff427785845a2c21adfcdc2748
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Characters/Prefabs/Modular_NPC/Peasants_Citizens/Separate_Parts/PT_Female_Peasant_01_head.prefab
+  uploadId: 721311

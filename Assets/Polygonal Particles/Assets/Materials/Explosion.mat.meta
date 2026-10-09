@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a8c2aae052139c926cee42b8ed5a46ff11b48a6f45c88e65d8e74d315c29895
-size 406
+fileFormatVersion: 2
+guid: 1a754ee911c021f408022516e8bd4d01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Explosion.mat
+  uploadId: 245436

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4926ee25fad1ff69222a4f8b5ffbeaa6548e1f945a44ac067fc1135e43b2d03
-size 485
+fileFormatVersion: 2
+guid: 233be0623027421449b81f7423abaf79
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181883
+  packageName: Lowpoly Medieval Skeleton - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.2
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Plants_Shader.shader
+  uploadId: 721450

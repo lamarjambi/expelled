@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:372cf105a0ceb4e117a2624999031f11d4dcc130b288938b1e40f21aaf18b4d7
-size 429
+fileFormatVersion: 2
+guid: 894cbfa5bb89e114f904378872a5f9b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/DesertDust_Mobile.prefab
+  uploadId: 245436

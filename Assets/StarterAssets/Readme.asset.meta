@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0182add68c3eead0e1046e3705cbb3b8da0d6695cdaba3fc2fd90b6ac65605ff
-size 420
+fileFormatVersion: 2
+guid: 4181bfe715a83e843b7538d750dc57cc
+timeCreated: 1484217493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Readme.asset
+  uploadId: 879174

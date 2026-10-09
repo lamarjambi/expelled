@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00be31a4e499f5ad60c9334998ba6ce9c1f3661cfbcedee075d404eb655dfd68
-size 462
+fileFormatVersion: 2
+guid: f98b7ee25a08b994996e0294e73b42e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Characters/Prefabs/Modular_NPC/Peasants_Citizens/Separate_Parts/PT_Male_Naked_lower.prefab
+  uploadId: 721311

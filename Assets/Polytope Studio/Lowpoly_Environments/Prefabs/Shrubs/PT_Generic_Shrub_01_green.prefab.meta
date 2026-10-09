@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:254a11a02a1ee5e2b4e9c4fcb2e83d05c5d689edcff00fc66a19efe80d6cc2bd
-size 432
+fileFormatVersion: 2
+guid: ef8374d642969b14baa54045236c5fb0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Shrubs/PT_Generic_Shrub_01_green.prefab
+  uploadId: 721311

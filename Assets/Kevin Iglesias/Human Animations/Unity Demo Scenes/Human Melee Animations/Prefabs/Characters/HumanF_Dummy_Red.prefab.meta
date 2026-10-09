@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d60913f9d9c74228fded6103c4d8bb437c094bf0cc7f3110f5c9c8bf9ea9553
-size 436
+fileFormatVersion: 2
+guid: c73a0a72483e00b4f8e6a2728f9ebcf0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/Prefabs/Characters/HumanF_Dummy_Red.prefab
+  uploadId: 825254

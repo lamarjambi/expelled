@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6b42ed4c602c79ebe467e4bf643a24dd26f8d74962e6a8187f6b942ab2251ff
-size 404
+fileFormatVersion: 2
+guid: 0b8f8ac7cedc4d043a2f079dd5898fad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Wall_Window_Arch_Small.prefab
+  uploadId: 434418

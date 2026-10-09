@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a91daa7ebc0fd5acb864ca2797caa568ba5a86572cdd4225348a59bc15d1bfbf
-size 405
+fileFormatVersion: 2
+guid: 8d6ef1a410de9b54caefd2b6ebc2c51e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/SplinterMobile.mat
+  uploadId: 245436

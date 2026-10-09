@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fcc6daf803ca28aaeb6337005cf93333389ecab29bc9305ab44a9c53636126ee
-size 411
+fileFormatVersion: 2
+guid: 80241c91d61989c43bea13f81122b8eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Stairs_Railing_Decoration_Top.prefab
+  uploadId: 434418

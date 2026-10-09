@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:836d11e50c68da63b25df163cf7e46ef6411ab4887b90bf8ad6c76f5fb90fefc
-size 515
+fileFormatVersion: 2
+guid: 2bd5f1f08d0707d438ed75a6e77ffdbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Female/1H/HumanF@RunStrafe01_BackwardRight - 1H.overrideController
+  uploadId: 825254

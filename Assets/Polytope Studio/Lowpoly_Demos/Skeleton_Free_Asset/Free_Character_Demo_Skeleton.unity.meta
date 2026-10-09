@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b99c9ce40290fc8e410469a048007c7f96f5c2b0e211be32f4b0578d97096020
-size 454
+fileFormatVersion: 2
+guid: 11f01e101937ee54ba69703aea18b5f9
+timeCreated: 1527766081
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181883
+  packageName: Lowpoly Medieval Skeleton - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.2
+  assetPath: Assets/Polytope Studio/Lowpoly_Demos/Skeleton_Free_Asset/Free_Character_Demo_Skeleton.unity
+  uploadId: 721450

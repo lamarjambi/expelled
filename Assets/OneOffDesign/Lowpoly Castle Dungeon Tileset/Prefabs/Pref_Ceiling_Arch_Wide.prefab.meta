@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bad18bf232ebfc08c3457f7d9c7287f2937981fceb7c2ca2e428c41660b83a0
-size 399
+fileFormatVersion: 2
+guid: 1511d4a1be741674699f214e7644d73a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Ceiling_Arch_Wide.prefab
+  uploadId: 434418

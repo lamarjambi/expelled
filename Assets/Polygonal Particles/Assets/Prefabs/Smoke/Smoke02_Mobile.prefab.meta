@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0eb4e9c72de15608f690a1b7d4ce0a3318c9addf3314da4cdf8eb39e465f827
-size 420
+fileFormatVersion: 2
+guid: 6947386f28412544e9fcad17184a5b9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Smoke/Smoke02_Mobile.prefab
+  uploadId: 245436

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a65bff767e872a1fd70757e1ea1ebe81f176da9d08545a1a16212af2687ac129
-size 450
+fileFormatVersion: 2
+guid: a645f793536a4674b920d2aa358beb7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Demos/Peasants_Free_Asset/Prefabs/Skybox.mat
+  uploadId: 721311

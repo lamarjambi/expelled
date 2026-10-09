@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98ffc0b1c7a57cbd8fea28932e716812caac2485240120cb765988a92f2e76c2
-size 429
+fileFormatVersion: 2
+guid: e58a55b2514575f4cb70754397301b36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Smoke/Smoke01_HighPerformance.prefab
+  uploadId: 245436

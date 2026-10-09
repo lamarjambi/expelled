@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:194940ba0e5ca94107f148951960849f41399466ed3261636320dc827c68a60b
-size 267
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+namespace Expelled.Narrative
+{
+    public class MainStory : MonoBehaviour
+    {
+        private void OnEnable()
+        {
+            SceneManager.LoadScene("Door1Scene", LoadSceneMode.Single);
+        }
+    }
+}

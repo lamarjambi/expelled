@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ba39281643fcf456717cd7607c6e883af43309d4364311d6c65c5aa9a1d64f3
-size 401
+fileFormatVersion: 2
+guid: 9c5265d3bfa4a584186a396a4e298933
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Ceiling_Vault_Small.prefab
+  uploadId: 434418

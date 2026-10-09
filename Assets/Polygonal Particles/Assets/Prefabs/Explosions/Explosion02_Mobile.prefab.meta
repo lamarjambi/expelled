@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66eb3da98aec74bc320821fe5bde8915efda40a20d680b63cdfa4fbdfe9e4818
-size 429
+fileFormatVersion: 2
+guid: fba3984b4d1739047b5b3e699ebda36a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Explosion02_Mobile.prefab
+  uploadId: 245436

@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d73cec448935d17353f3861275958cb9792693fb89af748d21b9ad018056fb6
-size 517
+using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
+
+namespace Expelled.UI
+{
+    public class Back2Menu : MonoBehaviour
+    {
+        public AudioSource audio;
+
+        public void OnClickEvent()
+        {
+            StartCoroutine(PlayThenLoad());
+        }
+
+        private System.Collections.IEnumerator PlayThenLoad()
+        {
+            audio.Play();
+            yield return new WaitForSeconds(audio.clip.length);
+            SceneManager.LoadScene("MenuScene");
+        }
+    }
+}

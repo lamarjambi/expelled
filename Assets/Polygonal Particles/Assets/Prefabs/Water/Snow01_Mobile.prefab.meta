@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89d3195590830b222f5a7c720040ded036108b3014a4bd513c84f6cd931f1ad7
-size 419
+fileFormatVersion: 2
+guid: 90d67b2ebd3a42c4498333969e12fc98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Water/Snow01_Mobile.prefab
+  uploadId: 245436

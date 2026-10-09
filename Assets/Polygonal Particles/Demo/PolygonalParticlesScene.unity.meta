@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ed605bddbb772f330d7a591e74e5eb4f295548cc1352f2ff322a8473e287c18
-size 377
+fileFormatVersion: 2
+guid: 8cdff707efaee914aa3383d5af10c84f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Demo/PolygonalParticlesScene.unity
+  uploadId: 245436

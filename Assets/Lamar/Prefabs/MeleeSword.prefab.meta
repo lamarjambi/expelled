@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:951f1e62436eb6ae8b3230fa45cd9537fa5376b14d03a67485de2a8dc213dbd3
-size 428
+fileFormatVersion: 2
+guid: 4340f4c2a8d13cf4b82d9438b74c6a67
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/Prefabs/Weapons/Human_Sword.prefab
+  uploadId: 825254

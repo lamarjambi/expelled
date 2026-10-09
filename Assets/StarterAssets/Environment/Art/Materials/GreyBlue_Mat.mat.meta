@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7d84b110bfa0d966287c5ca46f83a668a12c4711610b45fa7a3792c82c788ec
-size 457
+fileFormatVersion: 2
+guid: 6b911390c5825014e8377183a7837d3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Art/Materials/GreyBlue_Mat.mat
+  uploadId: 879174

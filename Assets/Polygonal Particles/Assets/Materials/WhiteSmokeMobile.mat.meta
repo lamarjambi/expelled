@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b9017d4921a677d15245a782ae80beea5ec3de88518fe43fc334e312117c005
-size 407
+fileFormatVersion: 2
+guid: 16d0ebcaec48835489d4c4adfc3eddc8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/WhiteSmokeMobile.mat
+  uploadId: 245436

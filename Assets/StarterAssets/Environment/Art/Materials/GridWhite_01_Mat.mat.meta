@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e33b27de8ab9556e69fded1e9f5202274fa9f87a611613366e952c6dc1f3f282
-size 455
+fileFormatVersion: 2
+guid: dbf898c9f9c4a2d46aa6336e23caeb61
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Art/Materials/GridWhite_01_Mat.mat
+  uploadId: 879174

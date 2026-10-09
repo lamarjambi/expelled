@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac4c859faeeab3d4baae1e63d3f194e64ccfc353f9c56522813a0aba2d0f3444
-size 433
+fileFormatVersion: 2
+guid: 50a0925b0c22af146a2d15615f815a1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab
+  uploadId: 879174

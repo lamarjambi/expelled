@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7fcd0cc30166d348ba9b053332b52bceaf01979298ee7827333807d9a3e3e6c
-size 426
+fileFormatVersion: 2
+guid: 0caa60a34a69eff45b26b5f03daa68d6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Demo/Materials/SMat_Skybox.mat
+  uploadId: 434418

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d31823f7324f97f6aa78bb854a8e6fcaeec7691d9b038d2e54ae059c655db8ba
-size 421
+fileFormatVersion: 2
+guid: 383cd2d2b30a9f14fa4f4c0a77f37e14
+timeCreated: 1491916755
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Blizzard.mat
+  uploadId: 245436

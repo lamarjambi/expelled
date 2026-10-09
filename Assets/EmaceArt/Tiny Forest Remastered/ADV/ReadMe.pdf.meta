@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0085dd23d22a4c1b6edf6df297fab323b311b4115aa0b6ba711b309fbaf1e68b
-size 376
+fileFormatVersion: 2
+guid: ae826d3392ef74c4fbce366cc561a20f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130107
+  packageName: Remastered - LowPoly Tiny Trees and Rocks
+  packageVersion: 1.1
+  assetPath: Assets/EmaceArt/Tiny Forest Remastered/ADV/ReadMe.pdf
+  uploadId: 841574

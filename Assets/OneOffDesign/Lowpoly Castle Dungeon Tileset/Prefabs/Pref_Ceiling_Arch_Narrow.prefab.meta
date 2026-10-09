@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55bd2349884e5380da57e481119de4ebf1c9b5282f9ebc40c104d0e152d461b5
-size 401
+fileFormatVersion: 2
+guid: d894514ec3eab944b8ae404cb6be1855
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Ceiling_Arch_Narrow.prefab
+  uploadId: 434418

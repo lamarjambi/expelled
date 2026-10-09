@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:305b9d0bb5e6dbcc0f3aebc517e6183995ea013058071da0c3d434df278b3620
-size 420
+fileFormatVersion: 2
+guid: 3dd97330b2ebd884e9f796894e026064
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Rocks/PT_Ore_Rock_01.prefab
+  uploadId: 721311

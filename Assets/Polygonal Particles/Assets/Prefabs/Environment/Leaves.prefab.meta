@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eeae73ed0e0cfd05199f1aaf837b31550733714c9c1dcb31037ab6b5972ad0a3
-size 418
+fileFormatVersion: 2
+guid: 3d42bbbe9fe446f41aa669ee01abd12d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/Leaves.prefab
+  uploadId: 245436

@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e57114f4e7cbcd200942abc1e36c9d759b76fe2c43e62cc1300bdd05a7f6a9c3
-size 680
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
+using Expelled.Player;
+
+namespace Expelled.UI
+{
+    public class GameOver : MonoBehaviour
+    {
+        [SerializeField] private string menuSceneName = "MenuScene";
+        [SerializeField] private float displayDuration = 5f;
+
+        void Start()
+        {
+            StartCoroutine(ReturnToMenu());
+        }
+
+        private IEnumerator ReturnToMenu()
+        {
+            yield return new WaitForSeconds(displayDuration);
+            PlayerPrefs.DeleteAll();
+            PlayerState.Reset();
+            Time.timeScale = 1f;
+            SceneManager.LoadScene(menuSceneName);
+        }
+    }
+}

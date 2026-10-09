@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d7c7fa8b8b67746da7a6f9d1560f9711698a4d9bca5c5ca0bde099fe8271ea9e
-size 415
+fileFormatVersion: 2
+guid: 21461e6c060baf044ac3e717ed4170cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Explosions/Puff.prefab
+  uploadId: 245436

@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9a4a1bb48fdfe75ec4f1939df74ae3c5564ced0be1d49bcd3fe818f15e3a0e4
-size 828
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Audio;
+
+namespace Expelled.UI
+{
+    public class Settings : MonoBehaviour
+    {
+        public Slider masterVol;
+        public AudioMixer mainAudioMixer;
+
+        void Start()
+        {
+            float saved = PlayerPrefs.GetFloat("MasterVol", 1f);
+            masterVol.value = saved;
+            ApplyVolume(saved);
+        }
+
+        public void ChangeMasterVolume()
+        {
+            float val = masterVol.value;
+            PlayerPrefs.SetFloat("MasterVol", val);
+            ApplyVolume(val);
+        }
+
+        void ApplyVolume(float linearVal)
+        {
+            AudioListener.volume = linearVal;
+            float dB = linearVal > 0.0001f ? Mathf.Log10(linearVal) * 20f : -80f;
+            mainAudioMixer.SetFloat("MasterVol", dB);
+        }
+    }
+}

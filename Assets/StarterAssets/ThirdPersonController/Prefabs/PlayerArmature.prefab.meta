@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f33ee85152fcde2170cbf838ad39f11bda60040dce3c0cc4cda0c129484e15c8
-size 432
+fileFormatVersion: 2
+guid: 64dce48905ffd9b4293e595fa6941544
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab
+  uploadId: 879174

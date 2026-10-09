@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:615f8090260d2f5f49c98b03e2cdbd3c5daf43a7a6ab022d5c615d411e1a42c5
-size 455
+fileFormatVersion: 2
+guid: d20ab871c62edf04facff84d4ce183b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181883
+  packageName: Lowpoly Medieval Skeleton - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.2
+  assetPath: Assets/Polytope Studio/Lowpoly_Weapons/Sources/Materials/PT_Weapons_Material.mat
+  uploadId: 721450

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a5cc761023feeb8c05709dff066cdd59c9117ded360021aca83b6d93cf95e51
-size 411
+fileFormatVersion: 2
+guid: 7fe9b6012e107fc4bbaab2ba5cd94d87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Stairs_Railing_Corner_Outside.prefab
+  uploadId: 434418

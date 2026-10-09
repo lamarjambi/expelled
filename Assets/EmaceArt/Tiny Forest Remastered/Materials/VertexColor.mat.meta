@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b4d13a01c44811b5bca0c0a33a5d47160f10c91cb1070fd57eebc18dd61aa6c
-size 413
+fileFormatVersion: 2
+guid: 460ab7224b1e21e4e9703cb892c68d8b
+timeCreated: 1442616533
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130107
+  packageName: Remastered - LowPoly Tiny Trees and Rocks
+  packageVersion: 1.1
+  assetPath: Assets/EmaceArt/Tiny Forest Remastered/Materials/VertexColor.mat
+  uploadId: 841574
