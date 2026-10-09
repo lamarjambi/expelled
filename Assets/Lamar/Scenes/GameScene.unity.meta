@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b8e75332d03be46bec777b4874cc3a5a332d614022de82d18efc83098316f5f
-size 395
+fileFormatVersion: 2
+guid: 0815ebd95e13f4a45ab710f7e4c38258
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Demo/Scenes/Demo
+    Scene.unity
+  uploadId: 434418

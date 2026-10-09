@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfd949187f05a559bdae6f8ae0c94520f6a6849248d82e99787ef8bc5dc5ee1d
-size 1271
+VisualElement {
+}
+
+.label {
+    -unity-font-definition: url("project://database/Assets/Lamar/Fonts/Adventuro.ttf?fileID=12800000&guid=cc37dcc324ebe5f45a799f1b51fee87c&type=3#Adventuro");
+    font-size: 140px;
+    color: rgb(238, 238, 238);
+    -unity-text-outline-color: rgb(116, 0, 0);
+    -unity-text-outline-width: 2px;
+    text-shadow: -6px 4px 0 rgb(116, 0, 0);
+    -unity-text-align: middle-center;
+}
+
+.button {
+    -unity-font-definition: url("project://database/Assets/Lamar/Fonts/Kirbys-Adventure.ttf?fileID=12800000&guid=78162139079b7f74f8ef8b2291e9b8f4&type=3#Kirbys-Adventure");
+    font-size: 60px;
+    width: 200px;
+    height: 100px;
+    white-space: normal;
+    -unity-text-align: middle-center;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    -unity-font-style: bold;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    color: rgb(163, 28, 28);
+    -unity-text-outline-color: rgb(255, 255, 255);
+    -unity-text-outline-width: 1px;
+}
+
+.button:hover {
+    transition-timing-function: ease-in;
+    scale: 1.3 1.3 1.3;
+    -unity-font-style: italic;
+    transition-duration: 0s;
+    transition-delay: 0s;
+}

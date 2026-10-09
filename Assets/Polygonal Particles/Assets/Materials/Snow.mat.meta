@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:256ac9e95216314a49b10eace7d85bec5daf9e03ee25ea7ed255ed6d7f3b27ab
-size 401
+fileFormatVersion: 2
+guid: ca890bf583739f64e8a7cee0a52cea73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Snow.mat
+  uploadId: 245436

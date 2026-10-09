@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f124e55cbd24075b40738f30a73c14edd6fad97c8b11bda550ff1e7513f7ae0
-size 424
+fileFormatVersion: 2
+guid: cd50a4d1576a7e74eb4bee69c0ccb283
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Hit Particles/HitCrystal.prefab
+  uploadId: 245436

@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be89c50bcf1aaa2c83bf4a65c328c9efd3dd52c2442115126a554aea645dda61
-size 516
+fileFormatVersion: 2
+guid: 40a7ca6461ce60f4691a6fce9bffdf21
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Female/Polearm/HumanF@RunStrafe01_Left - Polearm.overrideController
+  uploadId: 825254

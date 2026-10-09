@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1426d6ed3f018132ff97540519c3d66032494eb3439e3f48fccc8bbc788a4b52
-size 394
+fileFormatVersion: 2
+guid: a29f1349724d02049b49b8d04c012e01
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Pillar_Large.prefab
+  uploadId: 434418

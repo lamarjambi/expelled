@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77037310e447ccdd697e2ab712c6b814e8e747ff91f6801cb60d0f1507824541
-size 508
+fileFormatVersion: 2
+guid: 633fcd5e32131e948a31a6b83c06ad1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Male/1H/HumanM@Combat Movement - Sword and Shield.controller
+  uploadId: 825254

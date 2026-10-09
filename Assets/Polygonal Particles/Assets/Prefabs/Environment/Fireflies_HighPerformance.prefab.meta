@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:121e0b58bd972a742f6528a85a619e90c9a53ac036a77243325d92a01fd877ad
-size 437
+fileFormatVersion: 2
+guid: c74135ed198083f4fb4d515df70d0bd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/Fireflies_HighPerformance.prefab
+  uploadId: 245436

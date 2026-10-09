@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:410f8714a762fe23ce12a3703447d8aa4720b524db880425839aeb750ac2aa9e
-size 480
+fileFormatVersion: 2
+guid: fe05288aca2f31443877a786e771100f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsHDRPVolumeProfile.asset
+  uploadId: 879174

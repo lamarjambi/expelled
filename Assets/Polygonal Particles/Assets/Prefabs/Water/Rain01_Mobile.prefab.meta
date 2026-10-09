@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b7eb4abc2e2472b65301e157b6c6f914e42e27b9a23d5a3e8e4852e9db65390
-size 419
+fileFormatVersion: 2
+guid: a77c8f9b0fa362a45ae383b23ee95f50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Water/Rain01_Mobile.prefab
+  uploadId: 245436

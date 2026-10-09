@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4caf3ab92a318ad70e128fbb90cbc86112b716f17c4a9222211d9b494f120264
-size 406
+fileFormatVersion: 2
+guid: 1a52f8df5db681548b6ed096b525745e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130107
+  packageName: Remastered - LowPoly Tiny Trees and Rocks
+  packageVersion: 1.1
+  assetPath: Assets/EmaceArt/Tiny Forest Remastered/Prefabs/Grass/EA04_Grass_Stick_01d_PRE.prefab
+  uploadId: 841574

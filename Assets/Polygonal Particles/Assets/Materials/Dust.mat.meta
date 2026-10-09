@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e490c751dc769c9337fe3dfb8ed9f0b5b75aaa98d6d629b33d7150611323dfb5
-size 394
+fileFormatVersion: 2
+guid: 79ee872b942eedb4881a49a781700839
+timeCreated: 1490686774
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Dust.mat
+  uploadId: 245436

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df3f3c2ba56b2f69e50aca9ed31f8cf82f1fd944e176e9c37bd991a22689da58
-size 543
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HumanF@Run_Forward - 1H
+  m_Controller: {fileID: 9100000, guid: 289774fc460f5e1468cbd52ad3d21b2d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 6deac83e30d8acd4cbb8c7d8a11545bd, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 40786e67f3ceb094b9c00543f295cb5f, type: 3}

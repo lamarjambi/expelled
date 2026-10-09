@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b19f038fb74026bc391087190fa17cae20a97183a7aae92e229ea2efb35e5129
-size 483
+fileFormatVersion: 2
+guid: 3b3f7400d3526e9429c39d03afb714b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/ThirdPersonController/Scenes/PlaygroundSettings.lighting
+  uploadId: 879174

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:870ec5a500d16944e5b0ba329e812da884ca0fcea1481fdf9dc4b4f12b547447
-size 429
+fileFormatVersion: 2
+guid: 90e49dcb8d4095d499a8c16d9fd770a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/Prefabs/Weapons/Human_Dagger.prefab
+  uploadId: 825254

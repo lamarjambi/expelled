@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dc3408933a85574cb5394b0cff983dfc67de864e35a3d08ad8bff00dd0b427d
-size 405
+fileFormatVersion: 2
+guid: 3347ccc6cbd85d242b9b603914efb718
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/BlizzardMobile.mat
+  uploadId: 245436

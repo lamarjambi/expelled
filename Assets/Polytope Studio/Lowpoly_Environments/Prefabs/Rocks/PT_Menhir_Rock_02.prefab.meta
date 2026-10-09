@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55d30699e05fd84369d0b501b8c6a929b0bc1b5a18a412bd26ed84e503d0f30c
-size 423
+fileFormatVersion: 2
+guid: 0f3d14a9a6b2ceb469c15d151552a614
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Rocks/PT_Menhir_Rock_02.prefab
+  uploadId: 721311

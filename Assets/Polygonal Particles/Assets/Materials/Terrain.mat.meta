@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64528a8b5452f3db944eb67ecb135cb7fac058f88458f50b60496756d661ff13
-size 404
+fileFormatVersion: 2
+guid: 769697cc5964bb048af4704d7a745528
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Terrain.mat
+  uploadId: 245436

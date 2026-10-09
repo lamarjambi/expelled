@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6dede75e7e1c25834f1b8a4a501af6d03e1be70a2c0a0de7e1482c4fcb551e19
-size 435
+fileFormatVersion: 2
+guid: 69b447faf5895f1428a1131028d8893c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Hands/Human
+    Hands Mask.mask
+  uploadId: 825254

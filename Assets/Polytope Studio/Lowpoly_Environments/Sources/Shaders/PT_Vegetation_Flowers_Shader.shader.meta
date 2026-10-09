@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:887eba89a943f3590ad828b93cf79c78dca9346acfa5b81dac8d015fff6bdd5b
-size 486
+fileFormatVersion: 2
+guid: 69e2e8c890f00e04e945ccd10e764372
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Flowers_Shader.shader
+  uploadId: 721311

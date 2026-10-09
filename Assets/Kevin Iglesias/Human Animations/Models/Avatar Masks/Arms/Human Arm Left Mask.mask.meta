@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d223c1e8e793451954e566a51d40d88bb671d1ef02ae64aff2db7a55e12d6391
-size 437
+fileFormatVersion: 2
+guid: 3c01d1ed15a1c0f49b77151cfdaa3e8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Arms/Human
+    Arm Left Mask.mask
+  uploadId: 825254

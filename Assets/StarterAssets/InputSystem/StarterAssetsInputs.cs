@@ -1,3 +1,93 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f01dd74f06db919851094ffc869c3bf4bb0a42a7f0e4443c83c8caeb591f8a52
-size 1792
+using UnityEngine;
+#if ENABLE_INPUT_SYSTEM
+using UnityEngine.InputSystem;
+#endif
+
+namespace StarterAssets
+{
+	public class StarterAssetsInputs : MonoBehaviour
+	{
+		[Header("Character Input Values")]
+		public Vector2 move;
+		public Vector2 look;
+		public bool jump;
+		public bool sprint;
+		public bool attack;
+		public bool drawWeapon;
+
+		[Header("Movement Settings")]
+		public bool analogMovement;
+
+		[Header("Mouse Cursor Settings")]
+		public bool cursorLocked = true;
+		public bool cursorInputForLook = true;
+
+#if ENABLE_INPUT_SYSTEM
+		public void OnMove(InputValue value)
+		{
+			MoveInput(value.Get<Vector2>());
+		}
+
+		public void OnLook(InputValue value)
+		{
+			if(cursorInputForLook)
+			{
+				LookInput(value.Get<Vector2>());
+			}
+		}
+
+		public void OnJump(InputValue value)
+		{
+			attack = value.isPressed; //ATTACK IS BOUND TO JUMP
+			//JumpInput(value.isPressed);
+		}
+
+		public void OnSprint(InputValue value)
+		{
+			SprintInput(value.isPressed);
+		}
+
+		public void OnAttack(InputValue value)
+		{
+			//attack = value.isPressed;
+		}
+
+		public void OnDrawWeapon(InputValue value)
+		{
+			//drawWeapon = value.isPressed;
+		}
+#endif
+
+
+		public void MoveInput(Vector2 newMoveDirection)
+		{
+			move = newMoveDirection;
+		} 
+
+		public void LookInput(Vector2 newLookDirection)
+		{
+			look = newLookDirection;
+		}
+
+		public void JumpInput(bool newJumpState)
+		{
+			jump = newJumpState;
+		}
+
+		public void SprintInput(bool newSprintState)
+		{
+			sprint = newSprintState;
+		}
+
+		private void OnApplicationFocus(bool hasFocus)
+		{
+			SetCursorState(cursorLocked);
+		}
+
+		private void SetCursorState(bool newState)
+		{
+			Cursor.lockState = newState ? CursorLockMode.Locked : CursorLockMode.None;
+		}
+	}
+	
+}

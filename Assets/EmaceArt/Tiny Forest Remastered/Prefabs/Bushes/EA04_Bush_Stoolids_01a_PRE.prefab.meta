@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a102090245b37716fa7c41c69eadcf5917251e73b31456f5328eaeb18fcdfca
-size 409
+fileFormatVersion: 2
+guid: 73f5fc98273a4304a96124135538639a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130107
+  packageName: Remastered - LowPoly Tiny Trees and Rocks
+  packageVersion: 1.1
+  assetPath: Assets/EmaceArt/Tiny Forest Remastered/Prefabs/Bushes/EA04_Bush_Stoolids_01a_PRE.prefab
+  uploadId: 841574

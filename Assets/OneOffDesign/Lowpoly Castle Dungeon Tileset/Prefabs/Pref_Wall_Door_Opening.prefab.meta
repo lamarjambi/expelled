@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b55d393aa0f096281474dd07175458871e85f445262034172e66091755158506
-size 399
+fileFormatVersion: 2
+guid: ee7b27058993b6f4dae2816721fa2d01
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Wall_Door_Opening.prefab
+  uploadId: 434418

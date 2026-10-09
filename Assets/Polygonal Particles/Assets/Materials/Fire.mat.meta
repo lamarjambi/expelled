@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9bce5729b2fa81f21a4e91940ca98034d7c006d3aa0319ac0bb19273fa964b77
-size 394
+fileFormatVersion: 2
+guid: 0adccdc2a4b32954b8aed3fb0d07d3e7
+timeCreated: 1490349879
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/Fire.mat
+  uploadId: 245436

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f8285cf030bf557894f5df09fe6137927b885d75d9baad7df9f91390e96f0b4
-size 429
+fileFormatVersion: 2
+guid: f0271df749728104eac22c3d897fd8ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Mobile/Prefabs/EventSystem/UI_EventSystem.prefab
+  uploadId: 879174

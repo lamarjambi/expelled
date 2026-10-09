@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6733f19313288c19a8141f58acc014eaf2ad7370f5e1801a51fc3ef222f719ca
-size 426
+fileFormatVersion: 2
+guid: 72ffacdd8bc7b354c8db2ba189d79ff4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/Bubbles_Mobile.prefab
+  uploadId: 245436

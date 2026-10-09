@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09e70002d857c899a22c669d101f0765dd1510a9e4551700b10e74d0a0f5ee62
-size 421
+fileFormatVersion: 2
+guid: e5d7b87d422ee0f478ee09eb32e24f4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab
+  uploadId: 879174

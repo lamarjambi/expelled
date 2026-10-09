@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bcb1698372c45c25398e7b30a3c331ff5821741d7dd43cbfe5ba0c23ff9f3a93
-size 406
+fileFormatVersion: 2
+guid: b3a0c710bc0264d479865549e96ce8cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Props/Prefabs/PT_Hayfork_01.prefab
+  uploadId: 721311

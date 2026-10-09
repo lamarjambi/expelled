@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3af58199c1576b3f227561bcfea150c513c9f6b67678cbb228e6dd92ac54933
-size 402
+fileFormatVersion: 2
+guid: b2ffa08da972da443bd00a6922421ea8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/BloodMobile.mat
+  uploadId: 245436

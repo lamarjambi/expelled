@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a14219a619c039bf0a9db27ef155b1e489d67523bd27f6732bc9c2c5bc5c680
-size 433
+fileFormatVersion: 2
+guid: 042f756de00cb5b4db4d23471365bf39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Prefabs/Environment/RadiationCloud_Mobile.prefab
+  uploadId: 245436

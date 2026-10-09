@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:91332e3853e7782ce1026c854598143c8c9bfb72acd5f413fd7596e4fb31cba9
-size 453
+fileFormatVersion: 2
+guid: 979aef027a1c86c42a15ce35fce366fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
+  uploadId: 879174

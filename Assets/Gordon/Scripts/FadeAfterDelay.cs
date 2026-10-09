@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:652b8522fe5d4d1de8350d1b16c38e444b56caa704361e2e8a83ee138a3ce90d
-size 630
+using UnityEngine;
+using UnityEngine.UI;
+
+public class FadeAfterDelay : MonoBehaviour
+{
+    public float timeBeforeFade = 9f;
+    public float fadeDuration = 2f; 
+    
+    float timer = 0f;
+    RawImage image;
+    void Awake()
+    {
+        image = GetComponent<RawImage>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        timer += Time.deltaTime;
+        if (timer >= timeBeforeFade)
+        {
+            float alpha = Mathf.Clamp01(1 - (timer - timeBeforeFade) / fadeDuration);
+            Color color = image.color;
+            color.a = alpha;
+            image.color = color;
+        }
+    }
+}

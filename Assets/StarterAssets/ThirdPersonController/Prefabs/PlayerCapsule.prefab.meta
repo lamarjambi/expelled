@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3faa3b172aaada6f1a64c308d49d9329825f5e6aebc4a38efe0693df7f19fb34
-size 431
+fileFormatVersion: 2
+guid: 2553cec8fdb3eb643bbe9f2ec880c472
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
+  assetPath: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerCapsule.prefab
+  uploadId: 879174

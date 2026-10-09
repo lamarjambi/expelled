@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:870f3e9f5393d62a99697ad0e9b1bca502178b3a6fb15e8e2bec62ba4fe4476f
-size 392
+fileFormatVersion: 2
+guid: 482d22abe86c788489fbfc49b7e19220
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Door_Small.prefab
+  uploadId: 434418

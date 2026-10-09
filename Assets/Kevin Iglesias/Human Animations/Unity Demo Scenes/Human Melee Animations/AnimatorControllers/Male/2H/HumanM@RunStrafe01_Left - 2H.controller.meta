@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb166c45c626c7fd8db2eb1b36966ee24c521635323061b88222aa4e043b1312
-size 495
+fileFormatVersion: 2
+guid: ef06e89f488721a4c866dd9931c53f43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Male/2H/HumanM@RunStrafe01_Left - 2H.controller
+  uploadId: 825254

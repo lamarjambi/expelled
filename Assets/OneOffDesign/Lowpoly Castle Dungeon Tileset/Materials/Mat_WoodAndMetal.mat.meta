@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1e3e50a0aff81e5846875c06059c4a0c3c260edffa6e8447ad0a1f049710f69
-size 426
+fileFormatVersion: 2
+guid: af64178217c1f974e918fee2e6032348
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Materials/Mat_WoodAndMetal.mat
+  uploadId: 434418

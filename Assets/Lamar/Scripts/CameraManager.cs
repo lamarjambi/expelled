@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:221b4ffa23532f07ef6fdd832a1dadbee63e404c7fa61eebd1588586091f91fa
-size 933
+using UnityEngine;
+
+namespace Expelled.Camera
+{
+    public class CameraManager : MonoBehaviour
+    {
+        public static CameraManager Instance { get; private set; }
+
+        [SerializeField] private Transform player;
+        [SerializeField] private float smoothSpeed = 5f;
+
+        private Vector3 offset;
+        private Vector3 shakeOffset;
+
+        void Awake()
+        {
+            Instance = this;
+        }
+
+        void Start()
+        {
+            offset = transform.position - player.position;
+        }
+
+        public void SetShakeOffset(Vector3 shake)
+        {
+            shakeOffset = shake;
+        }
+
+        void LateUpdate()
+        {
+            if (player == null) return;
+
+            Vector3 target = player.position + offset;
+            transform.position = Vector3.Lerp(transform.position, target, smoothSpeed * Time.deltaTime) + shakeOffset;
+            shakeOffset = Vector3.zero;
+        }
+    }
+}

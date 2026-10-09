@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:94649a73d999fa9eb3f385f99304cda1fc68792f2d9cd6848c3015b64826ec3a
-size 453
+fileFormatVersion: 2
+guid: 67c85a5a0248e2a4a98e653c8e7eeb9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Materials/PT_Poppy_mat.mat
+  uploadId: 721311

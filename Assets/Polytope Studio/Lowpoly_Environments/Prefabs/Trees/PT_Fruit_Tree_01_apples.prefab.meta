@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:74c6e21cd36163138435d770d64e37f574df655fa8f0eb9c5c2ca0256e7a2167
-size 429
+fileFormatVersion: 2
+guid: e05ae677c7b3bc546bd36b488586fb0c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122225
+  packageName: Lowpoly Medieval Peasants - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 4.2.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Prefabs/Trees/PT_Fruit_Tree_01_apples.prefab
+  uploadId: 721311

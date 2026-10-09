@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e69e0c4abee4b390fe8104c3a4fa4f63a642e62abb0fea98f610b346b488631
-size 1243
+using System.Collections;
+using UnityEngine;
+
+namespace Expelled.Camera
+{
+    public class CameraShake : MonoBehaviour
+    {
+        // singleton
+        public static CameraShake Instance { get; private set; }
+        void Awake()
+        {
+            Instance = this;
+        }
+
+        public void ShakeCamera(float intensity, float time)
+        {
+            // :desc: start a camera shake
+            // :param intensity: how strong the shake is
+            // :param time: how long the shake lasts
+            StartCoroutine(Shake(intensity, time));
+        }
+
+        private IEnumerator Shake(float intensity, float time)
+        {
+            // :desc: coroutine that offsets camera position randomly
+            // :param intensity: max displacement amount
+            // :param time: total shake duration
+            float elapsed = 0f;
+
+            while (elapsed < time)
+            {
+                float strength = Mathf.Lerp(intensity, 0f, elapsed / time);
+                CameraManager.Instance.SetShakeOffset(Random.insideUnitSphere * strength);
+                elapsed += Time.deltaTime;
+                yield return null;
+            }
+
+            CameraManager.Instance.SetShakeOffset(Vector3.zero);
+        }
+    }
+}

@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4eed96153b3c782148c42594dd14532599706081ff68d1369e3519292a687160
-size 400
+fileFormatVersion: 2
+guid: 3f24f693cddfcf24c8d69bf2ec45ddd8
+timeCreated: 1491895805
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/DesertDust.mat
+  uploadId: 245436

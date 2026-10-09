@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15763ba906f97851211ced896b8b8e186a6f5abcb3aa565f8e2ebdd49e6a5beb
-size 390
+fileFormatVersion: 2
+guid: b9e1c040e6bebc54e8175ebbe3d183f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 195730
+  packageName: Lowpoly Castle Dungeon Tileset
+  packageVersion: 1.0
+  assetPath: Assets/OneOffDesign/Lowpoly Castle Dungeon Tileset/Prefabs/Pref_Gargoyle.prefab
+  uploadId: 434418

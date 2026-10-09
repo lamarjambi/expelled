@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:addd06486ea930db54866597dbbbd07b4c662c88885abf53b4b579b32f23f75e
-size 479
+fileFormatVersion: 2
+guid: 00d8dd759b040bb4aafa20ad6bba4743
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181883
+  packageName: Lowpoly Medieval Skeleton - Free - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.2
+  assetPath: Assets/Polytope Studio/Lowpoly_Demos/Skeleton_Free_Asset/Helpers/NewLayer
+    1.terrainlayer
+  uploadId: 721450

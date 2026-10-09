@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3cadd8b302e00c4602edeaead17f5c77d3325313a87ee00f23a98bfe4704d15d
-size 411
+fileFormatVersion: 2
+guid: 75891d913c7aa45419d4b27dcf922365
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Meshes/Materials/Smoke01.mat
+  uploadId: 245436

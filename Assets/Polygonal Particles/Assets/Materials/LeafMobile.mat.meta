@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f324dec2fc03ff22a55687bf6863a5e882b4c2ef4f66354730994b8a99a550cb
-size 401
+fileFormatVersion: 2
+guid: 57adad89df312d147b7e47fc46d05d8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 118355
+  packageName: Polygonal's Low-Poly Particle Pack
+  packageVersion: 1.0
+  assetPath: Assets/Polygonal Particles/Assets/Materials/LeafMobile.mat
+  uploadId: 245436

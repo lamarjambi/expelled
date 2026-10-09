@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:044e08d8122820bf621c3abf37d275167cc868513be3ad10105efe9f4d84b1a2
-size 433
+fileFormatVersion: 2
+guid: 89527f5525238ee44b3182458d85143a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Models/Avatar Masks/Human Body
+    Full Mask.mask
+  uploadId: 825254

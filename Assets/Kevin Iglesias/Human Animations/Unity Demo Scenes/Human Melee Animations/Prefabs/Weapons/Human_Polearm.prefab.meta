@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25474aa38f940d48011bdf14b5dd4ffb533be5f68fc1a5f86f741bd1d307b930
-size 430
+fileFormatVersion: 2
+guid: 70e0ccbe3643bd040888da7b8666ba1c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/Prefabs/Weapons/Human_Polearm.prefab
+  uploadId: 825254

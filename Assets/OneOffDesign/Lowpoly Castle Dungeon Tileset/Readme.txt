@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26a368b4bcbce00d03c2c4be53e43d51ef5e70b0c507c383b4271d07bb42874f
-size 411
+About usage:
+- Tileset functions on a 3x3/1.5 unit scale.
+- Floor tiles can be vertex snapped, walls should be positioned using precise positions.
+- Only items not to be positioned on a grid are the doors, these need to be positioned within their frames.
+- Edges (Pref_Wall_Edge, Pref_Ceiling_Edge_Wide, Pref_Ceiling_Edge_Narrow) can be used when the edges of ceilings are visible (as in under balconies).

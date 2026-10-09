@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6e52802a3439cf74906b244cdcd77070368173d560f3ab5c40a0fb35fe9cfe7
-size 515
+fileFormatVersion: 2
+guid: fe961c6598dcff447859c651f742fa8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165785
+  packageName: Human Melee Animations FREE
+  packageVersion: 2.0.2
+  assetPath: Assets/Kevin Iglesias/Human Animations/Unity Demo Scenes/Human Melee
+    Animations/AnimatorControllers/Female/Polearm/HumanF@Combat Movement - Polearm.overrideController
+  uploadId: 825254

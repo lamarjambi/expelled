@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:50d41c28abccacea80bd459565f3f99582ee329e4c1f6818e8a81844e68e75c1
-size 399
+fileFormatVersion: 2
+guid: 2fcd3676979cebe479ee0255199dc8b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130107
+  packageName: Remastered - LowPoly Tiny Trees and Rocks
+  packageVersion: 1.1
+  assetPath: Assets/EmaceArt/Tiny Forest Remastered/Prefabs/EA04_Rocks_Snot_01b_PRE.prefab
+  uploadId: 841574
