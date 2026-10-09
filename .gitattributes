@@ -10,3 +10,9 @@
 *.unity filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
+
+Assets/Polytope[[:space:]]Studio/** linguist-vendored
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/StarterAssets/** linguist-vendored
+Assets/TutorialInfo/** linguist-vendored
+Assets/Polygonal*/** linguist-vendored
